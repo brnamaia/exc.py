@@ -6,5 +6,5 @@ for i in range(1, n+1):
         divi = x/y
         print("{}".format (divi))
     elif y == 0:
-        print("divisão impossível")
+        print("divisao impossivel")
     
